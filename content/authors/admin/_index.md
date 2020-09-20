@@ -64,4 +64,4 @@ user_groups:
 
 Wenkai Pan is a sophomore undergraduate student in Mathematics at University of Washington. His research interests include machine learning, natural language processing and robotics.
 
-In my spare time, I like to play badminton and tennis.
+In his spare time, he likes to play badminton and tennis.
