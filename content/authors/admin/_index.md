@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 2nd Year Undergraduate Student
+role: 3rd Year Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Washington
-  url: "www.washington.edu"
+  url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, natural language processing and robotics. 
