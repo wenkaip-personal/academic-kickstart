@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Mathematics
+  - course: BS in Mathematics
     institution: University of Washington
     year: 2018 - Present
 
@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-Wenkai Pan is a sophomore undergraduate student in Mathematics at University of Washington. His research interests include machine learning, natural language processing and robotics.
+Wenkai Pan is a junior undergraduate student in Mathematics at University of Washington. His research interests include machine learning, natural language processing and robotics.
 
 In his spare time, he likes to play badminton and tennis.
